@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee 
+         http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" 
+         id="WebApp_ID" version="4.0">
+
+    <!-- Authentication Servlet -->
+    <servlet>
+        <servlet-name>Authentication</servlet-name>
+        <servlet-class>com.mbs.servlets.AuthenticationServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Authentication</servlet-name>
+        <url-pattern>/authentication/*</url-pattern>
+    </servlet-mapping>
+   
+    <!-- Main Servlet -->
+    <servlet>
+        <servlet-name>MainServlet</servlet-name>
+        <servlet-class>com.mbs.servlets.MainServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>MainServlet</servlet-name>
+        <url-pattern>/api/v1/*</url-pattern> 
+    </servlet-mapping>
+
+    <!-- Client Servlet -->
+    <servlet>
+        <servlet-name>ClientServlet</servlet-name>
+        <servlet-class>com.mbs.servlets.ClientServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>ClientServlet</servlet-name>
+        <url-pattern>/moviebooking/*</url-pattern> 
+    </servlet-mapping>
+
+    <!-- Session Filter -->
+    <filter>
+        <filter-name>SessionFilter</filter-name>
+        <filter-class>com.mbs.filter.SessionFilter</filter-class>
+    </filter>
+
+    <filter-mapping>
+        <filter-name>SessionFilter</filter-name>
+        <url-pattern>/api/v1/*</url-pattern>
+    </filter-mapping>
+
+</web-app>

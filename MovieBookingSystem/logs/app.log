@@ -1,0 +1,1210 @@
+2024-10-14 12:27:32,746 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-39] login - Login SUccess
+2024-10-14 12:49:19,527 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login SUccess
+2024-10-14 13:14:10,851 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login SUccess
+2024-10-14 13:14:10,851 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login SUccess
+2024-10-14 13:46:29,328 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] login - Login SUccess
+2024-10-14 13:47:47,020 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login SUccess
+2024-10-14 13:50:44,014 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login SUccess
+2024-10-14 15:12:08,880 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login failed
+2024-10-14 15:12:14,592 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-14 15:14:35,645 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-14 15:27:43,876 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-14 15:29:02,655 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-14 17:51:48,951 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-14 17:52:36,956 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-14 18:42:02,523 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-15 14:13:47,019 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-16 10:38:26,832 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] login - Login Success
+2024-10-16 10:38:26,832 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] login - Login Success
+2024-10-16 10:38:26,832 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] login - Login Success
+2024-10-16 11:17:12,322 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] login - Login Success
+2024-10-16 11:22:02,339 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] login - Login Success
+2024-10-16 11:24:42,894 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] login - Login Success
+2024-10-16 11:28:11,727 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] login - Login Success
+2024-10-16 11:28:32,176 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] login - Login Success
+2024-10-16 11:31:20,157 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] login - Login Success
+2024-10-16 11:35:35,724 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] login - Login Success
+2024-10-16 12:29:47,873 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] login - Login Success
+2024-10-16 12:30:05,336 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-31] login - Login Success
+2024-10-16 12:34:23,839 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-24] login - Login Success
+2024-10-16 12:36:04,840 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-32] login - Login failed
+2024-10-16 12:36:09,361 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-26] login - Login Success
+2024-10-16 12:36:49,980 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-16 12:37:09,589 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-16 12:43:43,047 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-16 12:44:02,100 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-16 12:47:17,604 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-16 14:43:43,383 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-16 14:58:48,027 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] login - Login Success
+2024-10-16 15:02:37,617 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-16 15:04:20,701 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-16 15:05:43,990 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-16 15:06:39,414 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-10-16 15:07:13,456 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-16 15:08:44,806 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-16 15:10:52,164 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-16 15:13:02,578 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-16 15:14:55,326 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-16 15:19:36,145 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-16 15:22:05,060 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-16 15:25:10,932 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-16 15:25:59,305 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-16 15:26:38,598 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-16 17:04:55,467 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-16 17:10:18,760 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-16 17:18:28,937 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-16 17:19:44,509 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-16 22:13:11,223 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-16 22:13:57,679 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-16 22:15:33,223 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login failed
+2024-10-16 22:15:34,917 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-16 22:20:08,446 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-16 22:21:44,215 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] login - Login Success
+2024-10-16 22:27:29,177 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] login - Login Success
+2024-10-16 22:29:02,368 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] login - Login Success
+2024-10-17 00:52:31,067 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] login - Login Success
+2024-10-17 00:53:21,505 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-17 00:54:32,307 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-17] login - Login Success
+2024-10-17 00:55:27,780 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] login - Login Success
+2024-10-17 00:57:48,069 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-17 01:01:29,716 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-17 01:04:32,925 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] login - Login Success
+2024-10-17 01:05:15,550 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-10-17 01:08:54,103 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-17 01:12:11,680 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-17 01:47:53,477 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-17 01:49:20,683 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-17 01:49:30,557 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-17 01:50:21,871 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-17 01:51:39,104 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-17 01:52:47,833 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-17 10:44:47,369 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-17 12:31:16,034 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] login - Login Success
+2024-10-17 12:54:16,515 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-17 18:25:15,586 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-31] login - Login failed
+2024-10-17 18:25:15,658 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-37] login - Login Success
+2024-10-17 18:25:33,188 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-31] login - Login Success
+2024-10-17 18:28:13,599 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-31] login - Login Success
+2024-10-17 18:29:46,054 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-34] login - Login Success
+2024-10-17 18:30:26,481 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-36] login - Login Success
+2024-10-17 18:31:22,337 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-34] login - Login Success
+2024-10-17 18:31:42,195 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-30] login - Login Success
+2024-10-17 18:32:48,169 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-10-17 18:32:48,169 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-17 18:38:56,511 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-17 18:40:39,705 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-17 18:41:13,226 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-17 18:43:41,994 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-17 18:47:59,411 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-17 18:51:30,365 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-17 18:55:55,115 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-17 18:59:12,716 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-17 19:04:14,850 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-17 19:22:04,450 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-17 19:24:12,104 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-18 00:14:17,880 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] login - Login Success
+2024-10-18 00:15:30,400 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login failed
+2024-10-18 00:15:32,799 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-10-18 00:17:05,194 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-10-18 00:19:27,400 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-10-18 00:31:09,957 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-18 00:32:20,595 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] login - Login Success
+2024-10-18 00:32:21,208 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] login - Login Success
+2024-10-18 00:33:49,160 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] login - Login Success
+2024-10-18 00:33:49,708 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] login - Login Success
+2024-10-18 00:36:12,164 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] login - Login Success
+2024-10-18 00:36:12,484 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-17] login - Login Success
+2024-10-18 00:36:28,277 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] login - Login Success
+2024-10-18 00:44:18,894 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] login - Login Success
+2024-10-18 00:51:45,556 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-18 00:52:35,894 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-10-18 00:56:23,954 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-10-18 00:58:05,850 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-18 00:58:57,194 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-18 01:01:38,001 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-10-18 01:02:36,454 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-18 01:03:46,620 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-18 01:06:52,359 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-18 01:17:57,997 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-18 01:34:14,432 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-18 11:07:27,838 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-18 11:08:32,916 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-18 11:10:25,254 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-18 11:10:32,378 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-18 11:11:15,794 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-18 11:17:37,349 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-18 11:24:04,099 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-18 11:25:43,754 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-18 11:31:31,845 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-18 11:31:31,845 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-18 12:19:00,267 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-18 12:19:16,633 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-18 13:00:02,470 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-17] login - Login Success
+2024-10-18 13:18:17,080 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] login - Login failed
+2024-10-18 13:18:19,232 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] login - Login Success
+2024-10-18 13:31:13,638 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] login - Login Success
+2024-10-18 13:43:56,437 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-18 13:46:45,901 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-18 16:18:27,330 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-18 16:20:07,614 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-18 18:40:13,099 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-18 18:50:36,639 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] login - Login Success
+2024-10-19 00:00:08,657 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] login - Login Success
+2024-10-19 00:01:07,054 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] login - Login Success
+2024-10-19 00:03:39,151 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] login - Login Success
+2024-10-19 00:23:32,733 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] login - Login Success
+2024-10-19 00:55:42,476 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-25] login - Login Success
+2024-10-19 00:59:39,240 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-26] login - Login Success
+2024-10-19 08:47:14,132 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-24] login - Login Success
+2024-10-19 09:02:22,373 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-25] login - Login Success
+2024-10-19 10:27:15,152 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-21] login - Login Success
+2024-10-19 10:33:17,879 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-26] login - Login Success
+2024-10-19 10:40:42,412 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-36] login - Login failed
+2024-10-19 10:40:49,612 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-34] login - Login failed
+2024-10-19 10:40:53,669 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-32] login - Login failed
+2024-10-19 10:41:49,781 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-38] login - Login failed
+2024-10-19 10:59:46,935 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-36] login - Login Success
+2024-10-19 11:29:31,368 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-40] login - Login Success
+2024-10-19 13:26:25,480 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-49] login - Login Success
+2024-10-19 14:18:56,924 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-54] login - Login Success
+2024-10-19 14:51:37,935 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-62] login - Login Success
+2024-10-19 21:45:11,682 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-67] login - Login Success
+2024-10-19 21:47:18,618 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-69] login - Login failed
+2024-10-19 21:47:23,023 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-70] login - Login Success
+2024-10-19 22:16:34,878 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-19 22:18:02,643 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-19 22:18:52,605 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login failed
+2024-10-19 22:18:57,275 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-19 22:20:02,086 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-20 08:44:45,386 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-20 08:45:03,026 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-20 08:47:27,294 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] login - Login Success
+2024-10-20 08:50:26,922 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] login - Login Success
+2024-10-20 08:50:46,843 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-17] login - Login Success
+2024-10-20 08:51:08,751 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] login - Login Success
+2024-10-20 08:52:04,411 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] login - Login Success
+2024-10-20 08:52:15,329 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] login - Login Success
+2024-10-20 08:52:43,651 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-26] login - Login Success
+2024-10-20 09:19:42,346 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-20 18:37:16,613 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-20 22:50:01,262 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-24] login - Login Success
+2024-10-21 10:48:05,854 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-21 13:03:38,598 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-21 13:21:52,293 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-21 13:21:54,707 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-21 13:22:46,384 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-21 13:27:49,216 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-21 13:28:47,535 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-21 13:31:28,735 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-21 13:36:45,776 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-21 13:39:19,940 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-10-21 13:42:11,662 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-21 13:42:35,162 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-21 13:46:36,267 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-21 15:13:29,002 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-21 15:14:50,188 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-10-21 15:54:25,954 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-21 15:56:34,900 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-21 15:57:05,511 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-21 16:09:14,730 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-25] login - Login Success
+2024-10-21 18:06:46,203 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-21] login - Login Success
+2024-10-21 18:08:10,276 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-24] login - Login Success
+2024-10-21 18:09:06,872 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-23] login - Login Success
+2024-10-21 18:38:16,590 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-28] login - Login Success
+2024-10-21 18:45:26,722 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-22] login - Login Success
+2024-10-21 20:00:29,858 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-45] login - Login Success
+2024-10-21 20:01:43,598 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-21 20:05:33,826 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-21 20:06:37,703 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-21 20:13:58,427 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-22 09:39:18,065 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-80] login - Login Success
+2024-10-22 09:40:24,933 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-85] login - Login Success
+2024-10-22 09:50:09,157 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-98] login - Login Success
+2024-10-22 09:56:17,383 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-94] login - Login Success
+2024-10-22 10:02:19,490 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-90] login - Login Success
+2024-10-22 10:44:48,064 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-97] login - Login failed
+2024-10-22 10:49:15,836 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-93] login - Login failed
+2024-10-22 10:49:22,710 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-98] login - Login Success
+2024-10-22 11:07:25,388 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-90] login - Login Success
+2024-10-22 12:54:42,006 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-92] login - Login Success
+2024-10-22 13:07:44,167 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-98] login - Login Success
+2024-10-22 13:48:50,901 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-132] login - Login Success
+2024-10-22 13:49:21,051 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-106] login - Login Success
+2024-10-23 10:29:53,458 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-200] login - Login Success
+2024-10-23 10:30:26,606 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-206] login - Login Success
+2024-10-23 10:31:06,264 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-208] login - Login Success
+2024-10-23 11:01:03,305 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-200] login - Login failed
+2024-10-23 11:01:04,638 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-206] login - Login Success
+2024-10-23 11:01:16,358 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-201] login - Login Success
+2024-10-23 11:08:04,799 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-202] login - Login Success
+2024-10-23 11:15:05,831 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-203] login - Login Success
+2024-10-23 11:18:26,120 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-208] login - Login Success
+2024-10-23 11:57:38,307 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-23 13:34:09,620 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-23 13:34:39,019 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-23 15:01:38,647 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-23 15:03:28,588 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-23 15:03:57,089 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-23 15:11:49,835 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login failed
+2024-10-23 15:11:59,451 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-23 15:29:54,899 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-23 15:41:03,991 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-23 16:08:37,404 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] login - Login failed
+2024-10-23 16:09:38,491 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] login - Login Success
+2024-10-23 16:10:15,693 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] login - Login failed
+2024-10-23 16:12:22,717 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] login - Login Success
+2024-10-23 17:56:40,046 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-23 17:59:01,798 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-23 18:35:14,414 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-23 18:36:36,163 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login failed
+2024-10-23 18:36:44,098 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-23 18:38:16,245 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-23 18:51:55,038 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-23 19:20:52,062 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-23 19:23:09,109 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-23 19:24:55,148 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-23 19:34:17,419 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-24 12:49:22,602 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-38] login - Login Success
+2024-10-24 14:59:09,201 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-50] login - Login Success
+2024-10-24 15:10:46,371 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-68] login - Login Success
+2024-10-24 15:12:35,509 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-74] login - Login Success
+2024-10-24 15:19:00,926 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-74] login - Login Success
+2024-10-24 15:19:37,173 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-72] login - Login Success
+2024-10-24 15:21:14,729 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-76] login - Login Success
+2024-10-24 15:22:11,325 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-71] login - Login Success
+2024-10-24 15:25:26,445 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-70] login - Login Success
+2024-10-24 15:25:43,435 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-69] login - Login Success
+2024-10-24 15:26:26,144 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-70] login - Login Success
+2024-10-24 15:29:20,932 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-71] login - Login Success
+2024-10-24 15:32:25,637 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-71] login - Login Success
+2024-10-24 15:33:02,323 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-68] login - Login Success
+2024-10-24 16:19:29,726 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-74] login - Login Success
+2024-10-24 16:47:31,805 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-73] login - Login Success
+2024-10-24 16:52:28,629 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-76] login - Login Success
+2024-10-24 17:18:32,971 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-70] login - Login Success
+2024-10-24 17:18:40,093 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-68] login - Login Success
+2024-10-24 17:30:54,759 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-68] login - Login Success
+2024-10-25 11:29:37,148 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-25 12:05:27,130 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-25 13:46:16,921 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-25 13:48:50,718 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-25 13:49:44,491 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-25 13:55:13,460 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login failed
+2024-10-25 13:55:17,675 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-25 13:58:10,759 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-27 07:16:28,714 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-27 07:48:00,204 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-27 07:52:37,195 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-27 18:56:48,963 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-27 18:58:22,441 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-27 19:02:12,829 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-28 17:15:38,204 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-10-28 17:16:36,263 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-29 08:58:35,574 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-29 20:28:07,765 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-29 20:52:22,627 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-29 21:53:00,905 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-29 21:57:25,729 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-29 23:30:26,147 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-34] login - Login Success
+2024-10-29 23:51:07,577 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-30] login - Login Success
+2024-10-29 23:51:39,555 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-31] login - Login Success
+2024-10-30 00:09:52,596 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-33] login - Login Success
+2024-10-30 01:06:22,975 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-10-30 01:52:15,224 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-30 01:55:23,850 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-30 01:58:26,641 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-30 01:58:35,932 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-30 01:58:54,715 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-30 02:07:43,360 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-30 02:17:31,430 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-30 02:17:41,589 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-10-30 02:19:57,146 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-10-30 02:21:42,687 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-10-30 02:22:28,690 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-10-30 02:23:04,515 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-30 02:24:21,864 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-10-30 02:32:12,020 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-10-30 02:37:20,144 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-30 02:37:57,274 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-10-30 02:41:03,154 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-10-30 07:12:25,330 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-10-30 07:25:43,013 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-11-02 09:02:04,457 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] login - Login Success
+2024-11-04 12:09:49,924 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] login - Login Success
+2024-11-06 12:05:36,506 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-11-06 18:56:47,235 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login failed
+2024-11-06 18:56:47,589 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login failed
+2024-11-06 18:56:52,995 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-11-06 19:13:37,538 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-11-06 19:42:02,058 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-11-08 12:12:29,498 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-11-10 09:55:16,449 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] login - Login Success
+2024-11-10 10:06:37,070 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] login - Login Success
+2024-11-10 16:09:05,484 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] login - Login Success
+2024-11-10 18:02:02,826 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-27] login - Login Success
+2024-11-14 18:39:53,451 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-11-14 19:01:16,509 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-11-14 19:04:08,718 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-11-14 21:25:04,641 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-11-14 21:25:28,353 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-11-14 22:14:57,154 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-34] login - Login Success
+2024-11-14 22:15:18,790 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-37] login - Login Success
+2024-11-14 22:27:19,975 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-11-14 22:27:36,754 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-11-15 09:12:57,494 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-28] login - Login Success
+2024-11-15 10:20:15,441 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] login - Login Success
+2024-11-15 10:30:36,286 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] login - Login Success
+2024-11-15 10:35:53,896 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] login - Login Success
+2024-11-15 10:45:43,044 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-22] login - Login failed
+2024-11-15 10:50:23,484 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-23] login - Login failed
+2024-11-15 10:50:38,668 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-24] login - Login failed
+2024-11-15 10:53:45,193 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-30] login - Login failed
+2024-11-15 10:55:00,463 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-23] login - Login failed
+2024-11-15 10:55:30,834 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-25] login - Login Success
+2024-11-15 10:56:31,078 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-21] login - Login Success
+2024-11-15 11:37:35,426 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-21] login - Login Success
+2024-11-15 11:40:00,608 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-27] login - Login Success
+2024-11-15 11:43:33,548 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-29] login - Login Success
+2024-11-15 11:45:20,862 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-21] login - Login Success
+2024-11-15 11:46:11,084 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-27] login - Login Success
+2024-11-15 11:48:12,041 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-28] login - Login Success
+2024-11-15 11:49:59,608 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-26] login - Login Success
+2024-11-15 11:50:43,861 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-21] login - Login failed
+2024-11-15 11:50:47,667 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-22] login - Login Success
+2024-11-15 11:50:57,294 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-28] login - Login Success
+2024-11-15 12:00:42,318 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-26] login - Login Success
+2024-11-15 12:21:44,020 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-15 12:23:58,249 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-15 12:24:10,699 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-15 12:24:11,427 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-15 12:24:13,079 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-15 12:29:57,250 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-11-15 12:30:42,593 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 12:30:53,891 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-11-15 12:31:36,906 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-11-15 12:31:41,947 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-15 12:31:42,039 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-15 12:31:42,185 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 12:31:42,337 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 12:37:49,836 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 12:44:36,432 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-11-15 12:45:06,734 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-11-15 12:51:12,718 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-15 12:54:41,803 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-15 12:54:43,793 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 13:05:51,517 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-11-15 13:15:20,719 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-11-15 13:16:48,382 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-11-15 13:24:29,685 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-15 13:37:22,536 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-15 13:37:59,494 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 13:38:40,327 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-15 13:38:45,999 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-15 14:15:12,924 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-15 14:20:20,669 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 14:21:31,367 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 14:21:35,362 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-15 14:22:14,964 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 14:22:31,041 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 14:22:34,672 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 14:23:10,543 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-15 14:24:40,824 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-15 14:25:48,248 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-15 14:27:21,900 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-15 14:27:25,322 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-15 14:29:17,823 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-15 14:29:22,787 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-15 14:32:32,885 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-15 14:34:33,388 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-15 14:34:49,851 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-15 14:35:43,994 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-11-15 14:37:26,186 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-15 14:37:34,395 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-15 14:37:41,096 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-15 14:38:13,870 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-11-15 14:38:37,519 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-11-15 14:39:20,292 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-15 14:39:23,586 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-15 14:39:28,467 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-15 14:42:03,837 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 14:43:17,495 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-15 14:46:40,088 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 14:46:40,212 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-15 14:46:40,427 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-15 14:47:51,761 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-15 14:48:29,304 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 14:49:03,943 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-15 14:49:09,191 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 14:49:57,670 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 14:50:43,624 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-15 14:51:27,700 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-15 14:51:31,776 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-15 14:51:40,767 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-15 14:52:35,868 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-15 14:52:47,997 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-15 14:53:10,727 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-15 14:54:10,695 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 14:54:18,303 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-15 14:54:20,964 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-15 14:55:43,172 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 14:57:47,015 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-15 14:59:37,197 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-15 14:59:56,009 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-15 15:00:43,873 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-15 15:00:49,552 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 15:00:50,266 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-15 15:00:52,565 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 15:02:36,788 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-15 15:02:42,659 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 15:04:03,342 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-15 15:04:06,995 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 15:05:43,890 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 15:06:21,928 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 15:06:50,530 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-11-15 15:07:04,812 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-11-15 15:09:44,805 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 15:10:00,355 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-11-15 15:10:58,354 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-11-15 15:15:18,477 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-15 15:17:12,062 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-15 15:17:23,785 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 15:24:51,099 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-15 15:24:55,013 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-15 15:24:57,123 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-15 15:25:02,211 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 15:26:00,997 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-15 15:30:58,935 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 15:31:04,746 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-15 15:31:43,865 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-15 15:31:45,105 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-15 15:31:46,991 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-15 15:32:22,140 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-15 15:45:43,322 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-15 15:46:26,773 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-15 15:47:48,717 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-15 15:50:53,338 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 15:51:42,767 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-15 15:52:13,897 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-15 15:56:05,535 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-11-15 15:58:42,204 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-15 15:58:47,165 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-15 15:59:42,865 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-15 15:59:48,004 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-15 16:00:01,715 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-15 16:02:58,153 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 16:03:33,579 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-11-15 16:04:33,405 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-15 16:04:56,899 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-15 16:07:07,062 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-15 16:07:12,851 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-15 16:10:35,416 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 16:34:52,059 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 16:34:55,043 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-15 16:34:57,961 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-15 16:35:11,107 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-11-15 16:46:11,032 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-15 16:46:15,953 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-15 16:46:42,877 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-11-15 16:47:12,889 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-15 16:49:26,468 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 16:56:22,623 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 16:56:28,922 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-11-15 16:56:35,495 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-15 17:00:03,255 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-15 17:00:19,434 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] doFilter - Authorization required for auth
+2024-11-15 17:00:21,805 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] doFilter - Authorization required for auth
+2024-11-15 17:05:31,511 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-15 17:06:33,525 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-15 17:06:36,661 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] doFilter - Authorization required for auth
+2024-11-15 17:07:13,035 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-17] doFilter - Authorization required for auth
+2024-11-15 17:09:02,536 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-15 17:11:57,466 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] doFilter - Authorization required for auth
+2024-11-15 17:15:00,675 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 17:21:41,878 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 17:26:27,446 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-15 17:31:20,816 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-15 17:31:33,017 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-15 17:31:34,338 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-15 17:31:34,792 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-15 17:31:34,961 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-15 17:31:35,198 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-15 17:31:35,414 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-15 17:31:35,635 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-15 17:31:35,874 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-15 17:35:23,064 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-15 17:35:38,994 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-15 17:39:31,806 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-11-15 17:50:50,001 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-15 17:54:35,808 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-15 17:54:43,962 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-15 17:57:27,336 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-16 11:18:24,658 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] login - Login Success
+2024-11-16 11:28:16,222 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] doFilter - Authorization required for auth
+2024-11-16 11:28:28,319 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-16 11:28:31,534 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-16 11:29:14,893 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-22] doFilter - Authorization required for auth
+2024-11-16 11:29:51,503 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-25] doFilter - Authorization required for auth
+2024-11-16 11:30:47,976 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-22] doFilter - Authorization required for auth
+2024-11-16 11:31:27,845 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-16 11:32:17,913 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-16 11:45:35,746 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-16 11:46:05,541 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-16 15:07:15,587 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-16 15:07:36,144 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-16 15:08:19,633 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-11-16 15:14:52,419 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-16 15:14:56,224 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-16 15:14:59,940 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-16 15:15:11,357 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-16 15:15:23,993 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-16 15:16:00,395 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-16 15:17:14,946 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-16 15:17:38,575 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-16 15:19:41,315 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-16 15:22:03,465 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-16 15:22:25,235 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-16 15:24:10,495 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-16 15:24:39,744 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-11-16 15:25:23,162 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-16 15:27:39,317 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-16 15:30:30,073 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-16 15:30:38,059 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-16 15:33:01,806 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-16 15:33:12,053 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-16 15:37:04,953 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-16 15:37:06,938 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-16 15:37:09,891 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-16 15:37:19,471 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-16 15:37:44,693 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-16 15:38:09,002 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-16 15:39:29,257 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-16 15:40:15,854 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-16 15:40:37,638 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-11-16 15:40:50,616 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-11-16 15:41:26,986 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-11-16 15:44:46,166 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-16 15:46:59,020 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-16 15:47:23,214 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-16 15:50:25,082 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-16 15:50:31,373 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-16 15:51:46,725 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-16 15:52:19,734 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-16 15:52:38,009 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-16 15:52:41,823 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-16 15:54:43,910 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-16 15:55:26,801 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-16 15:57:02,313 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-16 15:58:14,090 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-16 16:00:19,621 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-16 16:01:22,029 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-16 16:05:12,682 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-16 16:05:47,491 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-11-16 16:07:52,137 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-16 16:10:59,997 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-16 16:11:05,102 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-16 16:11:27,500 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-11-16 16:12:40,482 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-16 16:13:19,172 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-16 16:13:26,282 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-16 16:14:08,609 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-16 16:15:54,296 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-11-16 16:19:28,885 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-16 16:20:03,810 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-16 16:20:22,963 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-16 17:26:41,160 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] login - Login Success
+2024-11-16 17:54:47,708 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-16 17:54:58,761 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-16 17:55:36,157 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] doFilter - Authorization required for auth
+2024-11-16 17:56:48,185 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-16 17:57:54,121 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-17] doFilter - Authorization required for auth
+2024-11-16 18:00:37,847 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-16 18:04:16,688 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-16 18:04:28,186 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-17] doFilter - Authorization required for auth
+2024-11-16 18:04:52,869 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] doFilter - Authorization required for auth
+2024-11-16 18:05:13,419 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] doFilter - Authorization required for auth
+2024-11-16 18:05:55,911 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-16 18:08:06,881 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-17] doFilter - Authorization required for auth
+2024-11-16 18:08:30,251 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-16 18:08:37,689 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] doFilter - Authorization required for auth
+2024-11-16 18:08:39,906 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-16 18:09:09,778 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] doFilter - Authorization required for auth
+2024-11-16 18:10:15,040 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-16 18:11:34,477 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-16 18:11:40,161 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-16 18:12:29,707 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-16 18:13:38,128 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-16 18:18:46,766 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-16 18:18:49,030 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-16 18:19:03,023 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-16 18:20:53,968 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-16 18:22:27,390 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-16 18:22:28,991 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-16 18:22:36,146 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-16 18:23:33,542 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-16 18:24:36,073 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] doFilter - Authorization required for auth
+2024-11-16 18:25:06,709 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-16 18:32:29,782 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] doFilter - Authorization required for auth
+2024-11-16 21:08:20,969 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-47] doFilter - Authorization required for auth
+2024-11-16 22:59:17,840 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-78] login - Login Success
+2024-11-16 23:43:48,647 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-16 23:45:23,292 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-16 23:51:30,703 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-24] doFilter - Authorization required for auth
+2024-11-16 23:51:55,340 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-17 00:19:04,240 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-22] login - Login Success
+2024-11-17 00:26:14,826 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-17 00:27:47,357 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-17 00:27:54,320 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-17 00:28:14,970 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-17 00:37:17,653 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-17 00:47:59,228 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-11] createMovie - java.lang.NullPointerException: Cannot invoke "com.mbs.models.Movie.getName()" because "movie" is null
+2024-11-17 00:52:40,116 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-25] doFilter - Authorization required for auth
+2024-11-17 00:53:14,973 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-22] doFilter - Authorization required for auth
+2024-11-17 00:53:22,403 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-22] doFilter - Authorization required for auth
+2024-11-17 00:53:28,227 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-21] doFilter - Authorization required for auth
+2024-11-17 00:53:33,730 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-30] doFilter - Authorization required for auth
+2024-11-17 00:53:49,921 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-27] doFilter - Authorization required for auth
+2024-11-17 00:54:28,073 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-27] doFilter - Authorization required for auth
+2024-11-17 00:54:43,748 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-27] doFilter - Authorization required for auth
+2024-11-17 01:04:42,092 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-24] doFilter - Authorization required for auth
+2024-11-17 01:06:41,665 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-23] doFilter - Authorization required for auth
+2024-11-17 01:07:01,310 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-26] doFilter - Authorization required for auth
+2024-11-17 01:07:08,941 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-26] doFilter - Authorization required for auth
+2024-11-17 01:07:57,168 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-21] doFilter - Authorization required for auth
+2024-11-17 01:46:23,641 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-25] doFilter - Authorization required for auth
+2024-11-17 01:47:51,213 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-29] doFilter - Authorization required for auth
+2024-11-17 08:16:07,819 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-30] doFilter - Authorization required for auth
+2024-11-17 08:22:45,782 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-21] doFilter - Authorization required for auth
+2024-11-17 08:26:29,544 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-30] doFilter - Authorization required for auth
+2024-11-17 08:27:41,567 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-21] doFilter - Authorization required for auth
+2024-11-17 08:31:24,058 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-30] doFilter - Authorization required for auth
+2024-11-17 08:31:30,488 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-23] doFilter - Authorization required for auth
+2024-11-17 08:31:40,829 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-28] doFilter - Authorization required for auth
+2024-11-17 08:36:18,566 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-29] login - Login Success
+2024-11-17 08:36:31,200 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-27] login - Login Success
+2024-11-17 08:37:13,944 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-33] login - Login Success
+2024-11-17 08:38:40,937 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-24] doFilter - Authorization required for auth
+2024-11-17 08:38:45,575 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-38] doFilter - Authorization required for auth
+2024-11-17 08:39:33,713 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-37] doFilter - Authorization required for auth
+2024-11-17 08:39:43,424 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-37] doFilter - Authorization required for auth
+2024-11-17 08:43:20,946 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-39] doFilter - Authorization required for auth
+2024-11-17 08:43:48,964 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-35] login - Login Success
+2024-11-17 08:47:11,227 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-39] doFilter - Authorization required for auth
+2024-11-17 08:47:33,866 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-38] doFilter - Authorization required for auth
+2024-11-17 08:47:54,617 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-39] login - Login Success
+2024-11-17 08:48:46,584 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-38] doFilter - Authorization required for auth
+2024-11-17 08:49:17,169 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-43] doFilter - Authorization required for auth
+2024-11-17 08:49:30,926 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-45] doFilter - Authorization required for auth
+2024-11-17 08:51:07,031 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-51] doFilter - Authorization required for auth
+2024-11-17 08:51:11,552 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-50] doFilter - Authorization required for auth
+2024-11-17 08:52:13,848 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-51] doFilter - Authorization required for auth
+2024-11-17 08:59:05,022 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-49] doFilter - Authorization required for auth
+2024-11-17 09:00:29,403 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-61] doFilter - Authorization required for auth
+2024-11-17 09:00:58,032 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-59] login - Login Success
+2024-11-17 09:02:00,896 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-59] doFilter - Authorization required for auth
+2024-11-17 09:02:18,403 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-60] doFilter - Authorization required for auth
+2024-11-17 09:02:22,638 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-52] doFilter - Authorization required for auth
+2024-11-17 09:02:34,913 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-61] doFilter - Authorization required for auth
+2024-11-17 09:02:45,177 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-56] doFilter - Authorization required for auth
+2024-11-17 09:05:05,515 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-61] doFilter - Authorization required for auth
+2024-11-17 09:06:34,534 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-60] doFilter - Authorization required for auth
+2024-11-17 09:06:36,554 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-60] doFilter - Authorization required for auth
+2024-11-17 09:06:58,490 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-56] doFilter - Authorization required for auth
+2024-11-17 09:07:10,123 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-56] doFilter - Authorization required for auth
+2024-11-17 09:08:42,441 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-55] doFilter - Authorization required for auth
+2024-11-17 09:08:45,415 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-59] doFilter - Authorization required for auth
+2024-11-17 09:08:59,620 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-59] doFilter - Authorization required for auth
+2024-11-17 09:09:58,399 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-61] doFilter - Authorization required for auth
+2024-11-17 09:10:32,925 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-59] doFilter - Authorization required for auth
+2024-11-17 09:10:35,893 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-59] doFilter - Authorization required for auth
+2024-11-17 09:12:59,742 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-58] doFilter - Authorization required for auth
+2024-11-17 09:13:48,180 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-55] doFilter - Authorization required for auth
+2024-11-17 09:14:04,311 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-55] doFilter - Authorization required for auth
+2024-11-17 09:14:27,768 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-60] doFilter - Authorization required for auth
+2024-11-17 09:15:32,994 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-54] doFilter - Authorization required for auth
+2024-11-17 09:15:36,642 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-54] doFilter - Authorization required for auth
+2024-11-17 09:50:36,784 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-60] doFilter - Authorization required for auth
+2024-11-17 09:50:42,413 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-60] doFilter - Authorization required for auth
+2024-11-17 10:22:08,219 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-57] doFilter - Authorization required for auth
+2024-11-17 10:23:28,400 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-58] doFilter - Authorization required for auth
+2024-11-17 10:31:01,826 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-52] doFilter - Authorization required for auth
+2024-11-17 10:31:46,131 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-54] doFilter - Authorization required for auth
+2024-11-17 10:33:33,822 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-60] doFilter - Authorization required for auth
+2024-11-17 10:33:35,740 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-54] doFilter - Authorization required for auth
+2024-11-17 10:33:40,769 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-52] doFilter - Authorization required for auth
+2024-11-17 10:35:04,437 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-60] doFilter - Authorization required for auth
+2024-11-17 10:36:20,070 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-56] doFilter - Authorization required for auth
+2024-11-17 10:36:24,037 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-56] doFilter - Authorization required for auth
+2024-11-17 10:36:27,378 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-53] doFilter - Authorization required for auth
+2024-11-17 10:37:10,945 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-56] doFilter - Authorization required for auth
+2024-11-17 10:38:38,083 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-59] doFilter - Authorization required for auth
+2024-11-17 10:38:50,379 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-59] doFilter - Authorization required for auth
+2024-11-17 11:19:09,332 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-63] doFilter - Authorization required for auth
+2024-11-17 11:19:56,502 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-56] doFilter - Authorization required for auth
+2024-11-17 11:20:47,537 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-60] doFilter - Authorization required for auth
+2024-11-17 11:21:34,975 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-68] doFilter - Authorization required for auth
+2024-11-17 11:22:37,769 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-70] doFilter - Authorization required for auth
+2024-11-17 11:23:17,588 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-64] doFilter - Authorization required for auth
+2024-11-17 11:23:38,267 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-71] login - Login Success
+2024-11-17 11:23:52,330 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-62] login - Login failed
+2024-11-17 11:23:55,087 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-64] login - Login Success
+2024-11-17 11:25:10,289 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-62] doFilter - Authorization required for auth
+2024-11-17 11:25:22,454 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-62] doFilter - Authorization required for auth
+2024-11-17 11:27:06,694 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-68] doFilter - Authorization required for auth
+2024-11-17 11:58:52,028 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-79] doFilter - Authorization required for auth
+2024-11-17 12:01:30,658 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-78] authenticateUser - Error occured in authenticateUser java.lang.IllegalArgumentException: Invalid salt version
+2024-11-17 12:01:30,665 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-78] login - Login failed
+2024-11-17 12:01:33,072 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-74] authenticateUser - Error occured in authenticateUser java.lang.IllegalArgumentException: Invalid salt version
+2024-11-17 12:01:33,082 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-74] login - Login failed
+2024-11-17 12:01:39,905 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-77] authenticateUser - Error occured in authenticateUser java.lang.IllegalArgumentException: Invalid salt version
+2024-11-17 12:01:39,906 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-77] login - Login failed
+2024-11-17 12:05:13,258 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-86] login - Login Success
+2024-11-17 12:05:31,913 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-88] login - Login failed
+2024-11-17 12:05:34,667 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-84] login - Login Success
+2024-11-17 12:06:28,134 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-93] login - Login failed
+2024-11-17 12:07:56,209 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-90] authenticateUser - Error occured in authenticateUser org.json.JSONException: JSONArray[0] not found.
+2024-11-17 12:07:56,211 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-90] login - Login failed
+2024-11-17 12:07:59,208 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-91] authenticateUser - Error occured in authenticateUser org.json.JSONException: JSONArray[0] not found.
+2024-11-17 12:07:59,209 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-91] login - Login failed
+2024-11-17 12:08:02,899 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-92] authenticateUser - Error occured in authenticateUser org.json.JSONException: JSONArray[0] not found.
+2024-11-17 12:08:02,901 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-92] login - Login failed
+2024-11-17 12:10:06,141 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-98] doFilter - Authorization required for auth
+2024-11-17 12:10:11,137 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-98] doFilter - Authorization required for auth
+2024-11-17 12:11:08,031 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-92] login - Login Success
+2024-11-17 12:35:34,536 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-96] doFilter - Authorization required for auth
+2024-11-17 12:36:07,882 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-92] doFilter - Authorization required for auth
+2024-11-17 12:36:35,336 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-95] doFilter - Authorization required for auth
+2024-11-17 12:37:21,350 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-96] doFilter - Authorization required for auth
+2024-11-17 12:40:25,128 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-93] doFilter - Authorization required for auth
+2024-11-17 12:41:27,929 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-96] doFilter - Authorization required for auth
+2024-11-17 12:41:35,326 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-92] doFilter - Authorization required for auth
+2024-11-17 12:42:07,079 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-90] doFilter - Authorization required for auth
+2024-11-17 12:42:23,781 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-91] login - Login Success
+2024-11-17 12:43:17,668 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-90] doFilter - Authorization required for auth
+2024-11-17 12:43:23,648 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-99] doFilter - Authorization required for auth
+2024-11-17 12:43:26,709 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-95] doFilter - Authorization required for auth
+2024-11-17 12:43:41,491 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-97] doFilter - Authorization required for auth
+2024-11-17 12:43:44,175 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-97] doFilter - Authorization required for auth
+2024-11-17 12:44:00,407 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-90] doFilter - Authorization required for auth
+2024-11-17 12:44:15,935 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-91] doFilter - Authorization required for auth
+2024-11-17 12:44:35,297 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-91] doFilter - Authorization required for auth
+2024-11-17 12:44:48,970 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-91] doFilter - Authorization required for auth
+2024-11-17 14:19:30,288 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-95] doFilter - Authorization required for auth
+2024-11-17 14:19:31,120 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-97] doFilter - Authorization required for auth
+2024-11-17 14:30:44,485 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-102] doFilter - Authorization required for auth
+2024-11-17 14:30:47,687 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-105] doFilter - Authorization required for auth
+2024-11-17 14:30:50,583 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-105] doFilter - Authorization required for auth
+2024-11-17 14:31:00,747 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-101] login - Login Success
+2024-11-17 15:04:10,052 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-110] doFilter - Authorization required for auth
+2024-11-17 15:05:45,376 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-118] doFilter - Authorization required for auth
+2024-11-17 15:12:51,719 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-126] doFilter - Authorization required for auth
+2024-11-17 15:17:57,218 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-137] doFilter - Authorization required for auth
+2024-11-17 15:17:59,120 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-123] doFilter - Authorization required for auth
+2024-11-17 15:18:22,963 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-127] doFilter - Authorization required for auth
+2024-11-17 15:19:09,274 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-143] doFilter - Authorization required for auth
+2024-11-17 15:20:54,991 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-142] doFilter - Authorization required for auth
+2024-11-17 15:26:04,574 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-141] doFilter - Authorization required for auth
+2024-11-17 17:01:32,235 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-141] doFilter - Authorization required for auth
+2024-11-17 17:02:03,373 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-149] doFilter - Authorization required for auth
+2024-11-17 17:02:05,252 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-151] doFilter - Authorization required for auth
+2024-11-17 17:02:07,059 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-152] doFilter - Authorization required for auth
+2024-11-17 17:02:30,708 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-156] doFilter - Authorization required for auth
+2024-11-17 17:02:52,139 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-157] doFilter - Authorization required for auth
+2024-11-17 17:03:31,997 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 17:05:12,683 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 17:05:25,243 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-11-17 17:06:05,760 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-17 17:07:19,293 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 17:54:38,698 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-17 17:54:46,875 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-17 17:59:26,886 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 17:59:31,422 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-17 17:59:33,290 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-17 18:04:50,998 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-17 18:12:51,874 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 18:14:25,407 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-17 18:16:39,446 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-17 18:16:42,227 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-17 18:16:46,622 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 18:20:45,985 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-17 18:37:19,193 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] login - Login Success
+2024-11-17 18:38:40,386 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-17] createTheatre - java.lang.IllegalArgumentException: Unknown city: 5
+2024-11-17 18:38:48,314 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-18] createTheatre - java.lang.IllegalArgumentException: Unknown city: 5
+2024-11-17 18:42:37,546 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-17 18:43:24,289 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-11] createTheatre - org.postgresql.util.PSQLException: ERROR: column "city" is of type integer but expression is of type character varying
+  Hint: You will need to rewrite or cast the expression.
+  Position: 105
+2024-11-17 18:43:30,325 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-12] createTheatre - org.postgresql.util.PSQLException: ERROR: column "city" is of type integer but expression is of type character varying
+  Hint: You will need to rewrite or cast the expression.
+  Position: 105
+2024-11-17 18:43:31,307 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-15] createTheatre - org.postgresql.util.PSQLException: ERROR: column "city" is of type integer but expression is of type character varying
+  Hint: You will need to rewrite or cast the expression.
+  Position: 105
+2024-11-17 18:43:43,804 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-14] createTheatre - org.postgresql.util.PSQLException: ERROR: column "city" is of type integer but expression is of type character varying
+  Hint: You will need to rewrite or cast the expression.
+  Position: 105
+2024-11-17 18:45:47,087 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-17] createTheatre - org.postgresql.util.PSQLException: ERROR: column "city" is of type integer but expression is of type character varying
+  Hint: You will need to rewrite or cast the expression.
+  Position: 105
+2024-11-17 18:46:12,710 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-18] createTheatre - org.postgresql.util.PSQLException: ERROR: column "city" is of type integer but expression is of type character varying
+  Hint: You will need to rewrite or cast the expression.
+  Position: 105
+2024-11-17 18:48:14,945 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-3] createTheatre - org.postgresql.util.PSQLException: ERROR: column "city" is of type integer but expression is of type character varying
+  Hint: You will need to rewrite or cast the expression.
+  Position: 105
+2024-11-17 18:51:15,615 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-11-17 18:51:39,735 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-11] createTheatre - org.postgresql.util.PSQLException: ERROR: column "city" is of type integer but expression is of type character varying
+  Hint: You will need to rewrite or cast the expression.
+  Position: 105
+2024-11-17 18:54:59,996 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-17 18:57:09,321 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-17 18:57:10,480 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-17 18:58:02,307 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-17 18:59:02,091 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 18:59:19,272 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-17 19:04:22,340 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-17 19:04:26,758 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 19:12:46,142 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-11-17 19:28:24,523 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-17 19:32:50,712 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] doFilter - Authorization required for auth
+2024-11-17 19:34:18,536 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-28] doFilter - Authorization required for auth
+2024-11-17 19:39:54,648 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 19:44:44,871 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 19:58:51,525 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-24] doFilter - Authorization required for auth
+2024-11-17 20:03:37,650 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-26] doFilter - Authorization required for auth
+2024-11-17 20:05:04,858 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-29] doFilter - Authorization required for auth
+2024-11-17 20:05:27,765 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-41] doFilter - Authorization required for auth
+2024-11-17 20:05:32,224 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-43] doFilter - Authorization required for auth
+2024-11-17 20:10:01,590 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-47] login - Login Success
+2024-11-17 20:14:50,516 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-37] createTheatre - org.postgresql.util.PSQLException: ERROR: column "theatre_id" does not exist
+  Position: 58
+2024-11-17 20:23:48,030 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-63] doFilter - Authorization required for auth
+2024-11-17 20:25:16,814 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-63] doFilter - Authorization required for auth
+2024-11-17 20:27:30,056 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-63] doFilter - Authorization required for auth
+2024-11-17 20:30:34,228 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-67] doFilter - Authorization required for auth
+2024-11-17 20:32:01,473 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-64] doFilter - Authorization required for auth
+2024-11-17 20:32:04,735 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-69] doFilter - Authorization required for auth
+2024-11-17 20:32:06,706 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-69] doFilter - Authorization required for auth
+2024-11-17 20:32:29,825 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-63] doFilter - Authorization required for auth
+2024-11-17 20:36:30,534 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-64] login - Login Success
+2024-11-17 20:44:16,375 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-69] doFilter - Authorization required for auth
+2024-11-17 20:49:02,775 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-73] doFilter - Authorization required for auth
+2024-11-17 20:57:53,053 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-73] doFilter - Authorization required for auth
+2024-11-17 21:04:56,606 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-17 21:04:57,715 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-17 21:08:07,971 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 21:22:32,074 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] doFilter - Authorization required for auth
+2024-11-17 21:22:36,144 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 21:54:55,553 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-17 21:55:24,011 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] doFilter - Authorization required for auth
+2024-11-17 21:58:51,996 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] doFilter - Authorization required for auth
+2024-11-17 21:59:02,210 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-17 21:59:12,573 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] login - Login Success
+2024-11-17 22:00:36,114 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-17 22:00:48,066 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-17 22:01:41,653 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] doFilter - Authorization required for auth
+2024-11-17 22:02:53,242 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-17 22:02:58,881 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-17 22:11:42,089 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] doFilter - Authorization required for auth
+2024-11-17 22:12:04,955 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-17 22:12:07,827 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-17] doFilter - Authorization required for auth
+2024-11-17 22:13:01,277 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] doFilter - Authorization required for auth
+2024-11-17 22:13:13,107 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-17] doFilter - Authorization required for auth
+2024-11-17 22:13:38,110 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-17 22:13:41,989 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-17 22:13:45,184 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] doFilter - Authorization required for auth
+2024-11-17 22:15:26,211 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] doFilter - Authorization required for auth
+2024-11-17 22:16:03,196 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 22:17:38,791 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] doFilter - Authorization required for auth
+2024-11-17 22:18:25,064 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] doFilter - Authorization required for auth
+2024-11-17 22:18:44,379 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] doFilter - Authorization required for auth
+2024-11-17 22:19:47,816 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 22:20:51,601 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-17 22:23:18,920 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] doFilter - Authorization required for auth
+2024-11-17 22:24:14,634 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 22:24:31,318 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-17 22:26:15,180 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-17 22:27:16,097 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-17 22:28:17,190 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-17 22:28:28,480 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 22:28:45,907 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-17 22:30:04,294 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] doFilter - Authorization required for auth
+2024-11-17 22:31:41,383 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] doFilter - Authorization required for auth
+2024-11-17 22:37:23,583 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 22:37:31,255 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 22:37:46,695 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 22:38:58,295 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-17 22:39:25,841 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 22:39:26,863 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-17] doFilter - Authorization required for auth
+2024-11-17 22:39:29,987 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-17 22:41:20,849 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-17 22:44:22,239 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-17 22:45:48,704 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-17 22:46:01,473 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-17 22:48:05,169 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 22:48:12,418 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 22:52:01,238 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-17 22:52:50,363 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] doFilter - Authorization required for auth
+2024-11-17 22:54:45,071 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-17] doFilter - Authorization required for auth
+2024-11-17 22:56:12,834 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] doFilter - Authorization required for auth
+2024-11-17 22:56:26,051 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] doFilter - Authorization required for auth
+2024-11-17 23:00:15,585 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] doFilter - Authorization required for auth
+2024-11-17 23:01:38,906 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-17 23:03:48,740 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 23:04:06,113 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 23:04:10,144 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-17 23:04:14,097 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 23:04:21,323 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 23:04:30,398 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 23:04:36,202 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] doFilter - Authorization required for auth
+2024-11-17 23:05:16,356 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-17 23:05:22,259 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] doFilter - Authorization required for auth
+2024-11-17 23:05:29,152 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] doFilter - Authorization required for auth
+2024-11-17 23:05:35,830 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] doFilter - Authorization required for auth
+2024-11-17 23:05:35,991 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] doFilter - Authorization required for auth
+2024-11-17 23:05:36,172 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] doFilter - Authorization required for auth
+2024-11-17 23:05:36,346 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-17 23:05:36,505 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-17 23:05:36,662 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] doFilter - Authorization required for auth
+2024-11-17 23:05:36,858 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-17 23:05:37,054 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-17] doFilter - Authorization required for auth
+2024-11-17 23:05:37,252 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] doFilter - Authorization required for auth
+2024-11-17 23:05:37,396 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-17 23:05:37,587 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-17] doFilter - Authorization required for auth
+2024-11-17 23:05:37,753 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] doFilter - Authorization required for auth
+2024-11-17 23:05:37,969 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-17 23:05:38,119 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] doFilter - Authorization required for auth
+2024-11-17 23:05:38,280 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] doFilter - Authorization required for auth
+2024-11-17 23:05:41,042 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-17 23:06:46,204 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-17 23:06:53,554 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-20] doFilter - Authorization required for auth
+2024-11-17 23:10:57,833 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-17 23:11:48,378 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-17 23:13:00,247 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-17 23:13:09,367 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-17 23:13:47,484 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-17 23:14:38,610 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-17 23:14:41,341 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-17 23:14:44,642 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 23:15:09,423 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-17 23:15:29,363 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-17 23:18:08,441 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-17 23:19:19,135 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-17 23:19:23,220 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 23:19:28,642 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-17 23:19:31,915 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-17 23:19:34,316 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-17 23:20:25,430 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-17 23:21:15,146 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-17 23:21:17,181 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-17 23:23:23,421 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 23:24:21,316 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-17 23:24:32,787 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-17 23:24:32,858 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-17 23:24:33,033 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-17 23:24:33,349 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 23:24:33,525 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-17 23:24:33,705 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-17 23:24:33,867 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 23:24:34,052 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-17 23:26:23,269 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-17 23:33:10,212 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-17 23:34:06,091 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-17 23:35:19,491 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login failed
+2024-11-17 23:35:22,871 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-11-17 23:37:14,029 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-17 23:37:54,248 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 23:38:31,370 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-17 23:39:37,007 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-17 23:39:41,569 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-17 23:39:46,565 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-17 23:41:49,861 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-17 23:42:03,473 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-11-17 23:43:09,277 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-17 23:44:28,529 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-17 23:45:01,384 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-17 23:45:32,920 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-11-17 23:47:22,049 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-17 23:47:31,585 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-17 23:48:18,997 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-17 23:52:46,453 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-17 23:53:08,408 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-11-17 23:53:20,293 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-11-17 23:54:11,280 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-11-17 23:54:46,272 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-17 23:54:55,881 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-11-17 23:57:18,562 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-11-17 23:57:36,556 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login Success
+2024-11-17 23:57:45,041 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-17 23:59:00,876 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-11-18 00:00:09,165 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-11-18 00:01:57,613 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-18 00:02:12,757 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-18 00:02:27,715 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-18 00:02:37,403 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-18 00:12:16,035 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-18 00:12:24,479 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-11-18 00:23:05,083 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-11-18 00:28:10,027 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-18 07:38:40,567 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] doFilter - Authorization required for auth
+2024-11-18 07:38:46,350 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] doFilter - Authorization required for auth
+2024-11-18 07:38:46,376 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-17] fetchMovie - Error occurred in fetchMovie: java.lang.NullPointerException: Cannot invoke "com.mbs.utils.Constants$TableNames.getTableName()" because "this.tableName" is null
+2024-11-18 07:38:59,148 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-19] doFilter - Authorization required for auth
+2024-11-18 07:38:59,161 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-18] fetchMovie - Error occurred in fetchMovie: java.lang.NullPointerException: Cannot invoke "com.mbs.utils.Constants$TableNames.getTableName()" because "this.tableName" is null
+2024-11-18 07:39:00,310 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-20] fetchTheatre - Error occurred in fetchTheatre: java.lang.NullPointerException: Cannot invoke "com.mbs.utils.Constants$TableNames.getTableName()" because "this.tableName" is null
+2024-11-18 07:39:02,074 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-11] fetchMovie - Error occurred in fetchMovie: java.lang.NullPointerException: Cannot invoke "com.mbs.utils.Constants$TableNames.getTableName()" because "this.tableName" is null
+2024-11-18 07:39:03,272 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-13] fetchTheatre - Error occurred in fetchTheatre: java.lang.NullPointerException: Cannot invoke "com.mbs.utils.Constants$TableNames.getTableName()" because "this.tableName" is null
+2024-11-18 07:39:04,017 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-12] fetchMovie - Error occurred in fetchMovie: java.lang.NullPointerException: Cannot invoke "com.mbs.utils.Constants$TableNames.getTableName()" because "this.tableName" is null
+2024-11-18 07:39:05,085 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-15] fetchTheatre - Error occurred in fetchTheatre: java.lang.NullPointerException: Cannot invoke "com.mbs.utils.Constants$TableNames.getTableName()" because "this.tableName" is null
+2024-11-18 07:40:31,576 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-19] fetchTheatre - Error occurred in fetchTheatre: java.lang.NullPointerException: Cannot invoke "com.mbs.utils.Constants$TableNames.getTableName()" because "this.tableName" is null
+2024-11-18 07:40:31,576 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-18 07:40:37,280 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-12] fetchMovie - Error occurred in fetchMovie: java.lang.NullPointerException: Cannot invoke "com.mbs.utils.Constants$TableNames.getTableName()" because "this.tableName" is null
+2024-11-18 07:41:07,823 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-18 07:41:16,852 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-4] fetchMovie - Error occurred in fetchMovie: java.lang.NullPointerException: Cannot invoke "com.mbs.utils.Constants$TableNames.getTableName()" because "this.tableName" is null
+2024-11-18 07:42:09,206 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-7] fetchTheatre - Error occurred in fetchTheatre: java.lang.NullPointerException: Cannot invoke "com.mbs.utils.Constants$TableNames.getTableName()" because "this.tableName" is null
+2024-11-18 07:43:44,669 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-8] fetchMovie - Error occurred in fetchMovie: java.lang.NullPointerException: Cannot invoke "com.mbs.utils.Constants$TableNames.getTableName()" because "this.tableName" is null
+2024-11-18 07:43:52,338 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-5] fetchTheatre - Error occurred in fetchTheatre: java.lang.NullPointerException: Cannot invoke "com.mbs.utils.Constants$TableNames.getTableName()" because "this.tableName" is null
+2024-11-18 07:45:26,809 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-11] fetchMovie - Error occurred in fetchMovie: java.lang.NullPointerException: Cannot invoke "com.mbs.utils.Constants$TableNames.getTableName()" because "this.tableName" is null
+2024-11-18 07:46:35,083 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-18 07:46:48,521 ERROR c.m.h.AuthenticationHandler [http-nio-8080-exec-12] fetchMovie - Error occurred in fetchMovie: java.lang.NullPointerException: Cannot invoke "com.mbs.utils.Constants$TableNames.getTableName()" because "this.tableName" is null
+2024-11-18 07:46:55,925 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-13] doFilter - Authorization required for auth
+2024-11-18 07:49:37,715 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-18 07:57:18,543 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-18 07:59:24,598 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-18 07:59:35,956 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-18 08:15:41,901 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-18 08:16:43,373 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] doFilter - Authorization required for auth
+2024-11-18 08:16:50,504 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-14] doFilter - Authorization required for auth
+2024-11-18 08:19:24,185 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-15] doFilter - Authorization required for auth
+2024-11-18 08:19:31,887 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-23] doFilter - Authorization required for auth
+2024-11-18 08:19:32,615 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-24] doFilter - Authorization required for auth
+2024-11-18 08:19:34,395 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-25] doFilter - Authorization required for auth
+2024-11-18 08:21:32,425 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-21] doFilter - Authorization required for auth
+2024-11-18 08:27:43,163 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-25] doFilter - Authorization required for auth
+2024-11-18 08:30:09,001 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-23] doFilter - Authorization required for auth
+2024-11-18 09:29:38,959 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-33] doFilter - Authorization required for auth
+2024-11-18 10:30:19,482 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-76] doFilter - Authorization required for auth
+2024-11-18 10:44:29,401 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-11-18 10:54:31,157 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-18 10:54:39,506 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-18 10:57:43,432 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-18 11:22:45,558 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-43] login - Login Success
+2024-11-18 11:22:58,849 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-37] login - Login Success
+2024-11-18 11:27:56,547 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-39] doFilter - Authorization required for auth
+2024-11-18 11:28:06,553 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-45] doFilter - Authorization required for auth
+2024-11-18 11:28:09,531 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-44] doFilter - Authorization required for auth
+2024-11-18 11:30:25,724 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-41] doFilter - Authorization required for auth
+2024-11-18 11:30:35,735 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-39] doFilter - Authorization required for auth
+2024-11-18 11:31:50,549 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-37] doFilter - Authorization required for auth
+2024-11-18 11:58:21,618 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-63] doFilter - Authorization required for auth
+2024-11-18 12:07:03,741 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-60] login - Login Success
+2024-11-18 12:13:41,400 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-64] doFilter - Authorization required for auth
+2024-11-18 12:15:10,995 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-68] doFilter - Authorization required for auth
+2024-11-18 12:15:18,728 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-67] doFilter - Authorization required for auth
+2024-11-18 12:15:23,720 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-67] doFilter - Authorization required for auth
+2024-11-18 12:16:06,059 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-67] doFilter - Authorization required for auth
+2024-11-18 12:16:07,214 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-61] doFilter - Authorization required for auth
+2024-11-18 12:16:10,391 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-61] doFilter - Authorization required for auth
+2024-11-18 12:16:39,385 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-66] doFilter - Authorization required for auth
+2024-11-18 12:17:02,187 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-66] doFilter - Authorization required for auth
+2024-11-18 12:17:06,158 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-66] doFilter - Authorization required for auth
+2024-11-18 12:17:49,490 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-18 12:18:23,118 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-18 12:18:32,980 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-18 12:18:41,205 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-18 12:19:56,888 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-18 12:26:14,759 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-17] doFilter - Authorization required for auth
+2024-11-18 12:26:18,116 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-18 12:28:42,421 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-18 12:28:52,756 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-11-18 12:31:30,729 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-18 12:32:41,277 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-18 12:34:11,951 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login failed
+2024-11-18 12:34:14,273 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-11-18 12:36:02,245 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-11-18 12:41:11,105 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-11-18 12:41:23,523 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-18 12:42:48,686 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-18 12:43:21,300 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-18 12:46:35,537 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-18 12:51:49,863 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-16] doFilter - Authorization required for auth
+2024-11-18 12:53:55,256 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-18 12:56:19,929 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-11-18 12:56:28,493 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-11] login - Login failed
+2024-11-18 12:56:30,178 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-12] login - Login Success
+2024-11-18 12:56:58,983 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-18 13:03:36,847 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-11-18 13:06:00,144 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] login - Login Success
+2024-11-18 13:12:11,393 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-18 13:12:15,422 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-18 13:12:19,170 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-18 13:13:32,851 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-18 13:16:20,890 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-18 13:22:22,779 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-18 13:22:48,239 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-18 13:22:51,654 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-18 13:25:34,326 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-18 13:26:44,390 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-18 13:26:50,935 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-18 13:28:45,319 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-18 13:33:06,227 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-18 13:33:11,293 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-18 13:33:17,684 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-18 13:33:26,190 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login Success
+2024-11-18 13:34:43,860 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-18 13:35:23,540 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-18 13:35:27,609 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-18 13:40:18,472 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-18 13:40:21,084 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-18 13:44:44,352 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-18 13:45:02,488 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-18 13:51:23,395 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-18 13:52:39,325 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-18 13:54:51,207 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-18 13:55:41,728 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-18 14:01:39,504 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-18 14:03:39,326 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-11-18 14:06:47,053 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-18 14:07:19,368 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-18 14:07:32,447 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-18 14:09:06,184 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-11-18 14:14:43,344 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth
+2024-11-18 14:15:01,075 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-11-18 14:15:39,439 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-18 14:16:16,452 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-18 14:18:35,186 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-11-18 14:18:41,100 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-18 14:19:04,108 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-18 14:19:06,582 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] doFilter - Authorization required for auth
+2024-11-18 14:23:34,513 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-11-18 14:24:24,203 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-11-18 14:25:56,325 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-18 14:26:56,393 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] doFilter - Authorization required for auth
+2024-11-18 14:28:06,504 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-18 14:28:18,954 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] doFilter - Authorization required for auth
+2024-11-18 14:34:30,986 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-11-18 14:36:48,331 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login failed
+2024-11-18 14:36:52,234 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login failed
+2024-11-18 14:36:53,890 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] login - Login Success
+2024-11-18 14:40:44,766 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-11-18 14:41:27,395 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] deleteShow - Show Deleted Successfully
+2024-11-18 14:42:18,306 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] login - Login failed
+2024-11-18 14:42:21,692 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login Success
+2024-11-18 14:43:47,819 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] login - Login Success
+2024-11-18 14:52:18,482 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-2] login - Login failed
+2024-11-18 14:52:22,519 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login failed
+2024-11-18 14:52:54,353 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] login - Login Success
+2024-11-18 14:53:46,388 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] login - Login Success
+2024-11-18 15:00:44,350 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-8] login - Login failed
+2024-11-18 15:00:49,013 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-11-18 15:44:32,702 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-18] doFilter - Authorization required for auth
+2024-12-20 12:59:27,608 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-12-20 12:59:56,066 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] login - Login Success
+2024-12-20 13:06:17,081 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-12-20 13:06:25,913 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-10] login - Login Success
+2024-12-20 13:06:50,616 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-4] doFilter - Authorization required for auth
+2024-12-20 13:07:15,154 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-7] doFilter - Authorization required for auth
+2024-12-20 13:07:42,747 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-6] doFilter - Authorization required for auth
+2024-12-20 13:07:51,860 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-5] doFilter - Authorization required for auth
+2024-12-20 13:08:11,396 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-1] doFilter - Authorization required for auth
+2024-12-20 13:11:55,365 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-9] doFilter - Authorization required for auth
+2024-12-20 13:28:47,599 INFO c.m.h.AuthenticationHandler [http-nio-8080-exec-3] doFilter - Authorization required for auth

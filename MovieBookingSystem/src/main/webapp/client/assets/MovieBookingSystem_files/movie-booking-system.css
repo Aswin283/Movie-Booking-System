@@ -1,0 +1,61 @@
+.login-page {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100vh;
+  background-color: #ff6a5a; }
+  .login-page .image-section {
+    width: 50%;
+    height: 100vh;
+    background-color: #000; }
+    .login-page .image-section img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover; }
+  .login-page .login-section {
+    align-items: center;
+    border-radius: 20px;
+    height: 50%;
+    width: 50%;
+    padding: 50px;
+    background-color: #e39393;
+    box-shadow: -5px 0 15px rgba(0, 0, 0, 0.1); }
+    .login-page .login-section h2 {
+      text-align: center;
+      color: #333;
+      margin-bottom: 20px; }
+    .login-page .login-section .form-group {
+      margin-bottom: 15px; }
+      .login-page .login-section .form-group label {
+        display: block;
+        font-weight: bold;
+        margin-bottom: 5px; }
+      .login-page .login-section .form-group input {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px; }
+    .login-page .login-section .login-btn {
+      width: 100%;
+      padding: 10px;
+      background-color: #5cb85c;
+      border: none;
+      color: white;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer; }
+      .login-page .login-section .login-btn:hover {
+        background-color: #4cae4c; }
+    .login-page .login-section .login-footer {
+      margin-top: 20px;
+      text-align: center; }
+      .login-page .login-section .login-footer a {
+        color: #5cb85c;
+        text-decoration: none; }
+        .login-page .login-section .login-footer a:hover {
+          text-decoration: underline; }
+
+body {
+  background-color: #a9d494; }
+
+/*# sourceMappingURL=movie-booking-system.css.map */
